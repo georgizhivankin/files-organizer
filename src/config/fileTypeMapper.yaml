@@ -1,20 +1,28 @@
-documents:
-- .doc
-- .docs
-- .pdf
-- .txt
-- .epub
-music:
-- .mp3
-- .m4a
-- .aac
-- .ogg
-- .wma
-- .wav
-video:
-- .avi
-- .mpeg
-- .mpg
-- .mov
-- .wmv
-- .m2ts
+directories:
+  scanDirectory: C:/Users/Djgeorgie/Documents/Test
+  targetDirectory: C:/Users/Djgeorgie/Desktop/Moved
+files:
+  documents:
+  - path: C:/Users/Djgeorgie/Desktop/Documents
+  - extentions:
+    - .doc
+    - .docs
+    - .pdf
+    - .txt
+    - .epub
+  music:
+  - path: C:/Users/Djgeorgie/Desktop/Music
+  - extentions:
+    - .mp3
+    - .m4a
+    - .aac
+    - .wav
+    - .wma
+  video:
+  - path: C:/Users/Djgeorgie/Desktop/Video
+  - extentions:
+    - .avi
+    - .mpeg
+    - .mpg
+    - .m2ts
+    - .wmv
