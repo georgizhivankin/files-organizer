@@ -1,0 +1,20 @@
+documents:
+- .doc
+- .docs
+- .pdf
+- .txt
+- .epub
+music:
+- .mp3
+- .m4a
+- .aac
+- .ogg
+- .wma
+- .wav
+video:
+- .avi
+- .mpeg
+- .mpg
+- .mov
+- .wmv
+- .m2ts
